@@ -18,7 +18,6 @@ class MyFirstKivyApp(App):
         # returned as root widget 
         return Label(text ="Hello World !")           
   
-  
 # Here our class is initialized 
 # and its run() method is called.  
 # This initializes and starts  
